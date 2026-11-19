@@ -35,3 +35,7 @@ The free version scans everything and sets aside up to 5 photos. Kadr Pro is a o
 - Kadr works on regular folders, not inside the Apple Photos library.
 - On Windows, iPhone HEIC and RAW photos are matched only as exact copies for now.
 - The Windows build is brand new. If something breaks, please [open an issue](https://github.com/saidamirabdukakhkhorov-cyber/kadr/issues).
+
+## Feedback
+
+Questions, bugs or ideas: [open an issue](https://github.com/saidamirabdukakhkhorov-cyber/kadr/issues).
